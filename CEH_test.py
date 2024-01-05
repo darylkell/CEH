@@ -1,4 +1,4 @@
-# questions from https://ceh.cagy.org
+# questions from https://ceh.cagy.org  (2020)
 
 def setup():
 	print("Welcome to the CEH quiz.\n\nDuring questions, enter 'q' or CTRL-C to stop, and enter multi-choice answers together like 'abc'.\n\nGood luck!")
