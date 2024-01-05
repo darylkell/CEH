@@ -47,7 +47,7 @@ If results being saved is desired, they are output to the `current working direc
 ### Requirements
 None; this script uses native Python only. Download Python from python.org and run with `python CEH_test.py`.
 
-### Security warning
-Please do your due diligence when running anything from an untrusted source on your computer, including this script!
-Do not just take my word (though I will give it to you) that this script is safe.
+### Security Warning
+------
+Please properly vet anything you download from the internet, including this script. It could do anything.
 
